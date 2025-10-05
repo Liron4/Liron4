@@ -47,9 +47,9 @@ During my degree I focused heavily on self-learning, using online courses, tutor
 
 Each of my pinned projects contains a detailed README explanation and video demos to fully understand the work behind the scenes. Feel free to click on any of them and see the magic in action! ✨⬇️
 
-### 🚩 Pinned Projects
+### Current Pinned Projects
 
-<table align="center" style="width:100%; border-collapse:collapse;">
+<table align="left" style="width:100%; border-collapse:collapse;">
   <thead>
     <tr>
       <th align="left">Project</th>
